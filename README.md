@@ -18,11 +18,12 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 1. Clone or download this repository to your local machine.
 2. Then please download credits.csv file using the given link-(https://drive.google.com/file/d/1HrtCsAyH2lTOZwginxZ6BmZCvrEVJz-0/view?usp=sharing)
-3. Install all the libraries mentioned in the [requirements.txt] file with the command `pip install -r requirements.txt`
-4. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key) 
-5. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
-6. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
-7. Hurray! That's it.
+   and put it in the main folder with .csv extensions. Finally the name appear to be credits.csv
+4. Install all the libraries mentioned in the [requirements.txt] file with the command `pip install -r requirements.txt`
+5. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key) 
+6. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
+7. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
+8. Hurray! That's it.
 
 ## Architecture
 
