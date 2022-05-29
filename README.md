@@ -1,9 +1,6 @@
 # The-Movie-Mania
 
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-![Framework](https://img.shields.io/badge/Framework-Flask-red)
-![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
-![API](https://img.shields.io/badge/API-TMDB-fcba03)
+PYTHON FRAMEWORK-FLASK API-TMDB FRONTEND-CSS/HTML/JAVASCRIPT
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
@@ -20,11 +17,12 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 ## How to run the project?
 
 1. Clone or download this repository to your local machine.
-2. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file with the command `pip install -r requirements.txt`
-3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key) 
-4. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
-5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
-6. Hurray! That's it.
+2. Then please download credits.csv file using the given link-(https://drive.google.com/file/d/1HrtCsAyH2lTOZwginxZ6BmZCvrEVJz-0/view?usp=sharing)
+3. Install all the libraries mentioned in the [requirements.txt] file with the command `pip install -r requirements.txt`
+4. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key) 
+5. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
+6. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
+7. Hurray! That's it.
 
 ## Architecture
 
@@ -51,4 +49,7 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 3. [List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
+6.https://drive.google.com/file/d/1HrtCsAyH2lTOZwginxZ6BmZCvrEVJz-0/view?usp=sharing
 
+## DEMO VIDEO
+(https://drive.google.com/file/d/1XuhTvgdmAX8WGU75p1V1cqRVSqD-wD2W/view?usp=sharing)
